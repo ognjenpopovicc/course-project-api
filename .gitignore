@@ -1,0 +1,10 @@
+node_modules
+node_modules
+config.env
+dev-data
+emails
+public
+.eslintrc.json
+.prettierrc
+
+
